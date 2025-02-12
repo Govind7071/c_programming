@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/govindyadav/Documents/c programs/basic programs/exam/even_odd'
+relocations:     []
+...
