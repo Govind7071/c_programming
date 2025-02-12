@@ -1,4 +1,4 @@
-//display the AP of series 1,3,5,7..... upto 'n' terms.
+//display    the AP of series 1,3,5,7..... upto 'n' terms.
 #include<stdio.h>
 int main (){
 int i,n;
