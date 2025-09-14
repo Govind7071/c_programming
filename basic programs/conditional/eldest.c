@@ -6,9 +6,9 @@ int main ()
     scanf("%d%d%d",&ram,&shyam,&ajay);
     if (ram>shyam &&ram>ajay)
     printf("ram is eldest");
-    if(shyam>ram&&shyam>ajay)
+    else if(shyam>ram&&shyam>ajay)
     printf("shyam is eldest");
-    if(ajay>ram&&ajay>shyam)
+    else
     printf("ajay is eldest");
     return 0;
     
